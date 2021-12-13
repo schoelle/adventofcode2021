@@ -1,4 +1,4 @@
-# DAY 1
+# DAY 10
 
 Pascal programming language
 

@@ -1,3 +1,4 @@
+#!/usr/bin/emacs --script
 (setq filename (car command-line-args-left))
 
 (defun read-file (filename)

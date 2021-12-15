@@ -8,6 +8,8 @@ Current version of pike as available at https://pike.lysator.liu.se/
 
 # How to run
 
-```bash
+```console
 $ pike lanternfish.pike input.txt
+Iteration 80: 360610
+Iteration 256: 1631629590423
 ```

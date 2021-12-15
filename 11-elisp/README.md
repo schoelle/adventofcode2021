@@ -8,6 +8,11 @@ A current version of emacs installed.
 
 # How to run
 
-```bash
-$ emacs --script octopus.el input.txt
+```console
+$ emacs --script octopus.el input.txt 
+<...some loading output...>
+
+1655
+
+337
 ```

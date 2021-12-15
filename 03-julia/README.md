@@ -4,13 +4,13 @@ Julia programming language
 
 # Prerequisites
 
-```sh
+```console
 $ apt install julia
 ```
 
 # How to run
 
-```bash
+```console
 $ julia ./diagnostics.jl input.txt
 $ julia ./diagnostics2.jl input.txt
 ```

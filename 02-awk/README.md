@@ -8,7 +8,9 @@ A current version of AWK
 
 # How to run
 
-```bash
+```console
 $ awk -f ./dive.awk input.txt
+1693300
 $ awk -f ./dive2.awk input.txt
+1857958050
 ```

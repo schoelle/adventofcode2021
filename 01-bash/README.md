@@ -8,7 +8,9 @@ A current version of BASH
 
 # How to run
 
-```bash
+```console
 $ bash ./increase.sh input.txt
+1475
 $ bash ./increase2.sh input.txt
+1516
 ```

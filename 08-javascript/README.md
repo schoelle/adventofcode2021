@@ -8,6 +8,8 @@ Current version of node.js installed
 
 # How to run
 
-```bash
+```console
 $ node segments.js input.txt
+495
+1055164
 ```

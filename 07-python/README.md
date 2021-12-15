@@ -8,6 +8,8 @@ Python version 3.x with numpy
 
 # How to run
 
-```bash
+```console
 $ python3 whales.py input.txt
+355521
+100148777
 ```

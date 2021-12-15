@@ -8,8 +8,11 @@ Current C compiler and make utility
 
 # How to run
 
-```bash
+```console
 $ make
-$ ./lines input.txt
+cc     lines.c   -o lines
+$ ./lines input.txt 
+First star:  4826
+Second star:  16793
 ```
 

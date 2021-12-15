@@ -28,8 +28,9 @@ assumes zero to signal EOF.
 
 # How to run
 
-```bash
+```console
 $ ./run.sh input.txt
+360610
 ```
 
 # How it is implemented

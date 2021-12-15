@@ -4,14 +4,16 @@ Prolog programming language
 
 # Prerequisites
 
-```bash
+```console
 $ apt install swi-prolog
 ```
 
 # How to run
 
-```bash
+```console
 $ swipl passage.pl input.txt
+3485
+85062
 ```
 
 # Comment
